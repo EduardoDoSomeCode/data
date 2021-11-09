@@ -1,0 +1,21 @@
+{"url": "https://i.gyazo.com/b4245e8b5209f888451454a916c6f179.png","author": "Gary the Axolotl","count": 1,"tags": ["leucistic"], "ratio": 1.77734375, "host": "i.gyazo.com"}
+{"url": "https://i.gyazo.com/ae815093c6bef3bbb5533c49a4575f8d.png","author": "Gary the Axolotl","count": 1,"tags": ["leucistic"], "ratio": 1.0, "host": "i.gyazo.com"}
+{"url": "https://i.gyazo.com/09d06a5fd1dd11befaf8e5d8440c7b0c.png","author": "Gary the Axolotl","count": 1,"tags": ["leucistic"], "ratio": 1.30078125, "host": "i.gyazo.com"}
+{"url": "https://i.redd.it/t34yap0hssr61.jpg","author": "u/RecipeEnvironmental9","count": 1,"tags": ["rainbow", "pride"], "ratio": 1.0, "host": "i.redd.it"}
+{"url": "https://i.redd.it/uxxg0wnirqs61.jpg","author": "u/bean-sr","count": 1,"tags": ["leucistic"], "ratio": 1.3333333333333333, "host": "i.redd.it"}
+{"url": "https://media.discordapp.net/attachments/790641436467003486/864175732079198229/unknown.png","author": "Gary the Axolotl","count": 2,"tags": ["leucistic", "wild", "kiss"], "ratio": 1.7810383747178329, "host": "media.discordapp.net"}
+{"url": "https://i.redd.it/6oeq8q6fjqs71.jpg","author": "u/PettyWhite719","count": 1,"tags": ["leucistic"], "ratio": 1.6744186046511629, "host": "i.redd.it"}
+{"url": "https://i.redd.it/ybfy212afxs71.jpg","author": "u/Vickasaurus","count": 1,"tags": ["leucistic"], "ratio": 1.3333333333333333, "host": "i.redd.it"}
+{"url": "https://i.redd.it/y0f9cy1afxs71.jpg","author": "u/Vickasaurus","count": 1,"tags": ["gold"], "ratio": 0.75, "host": "i.redd.it"}
+{"url": "https://i.redd.it/dzj4az1afxs71.jpg","author": "u/Vickasaurus","count": 1,"tags": ["leucistic"], "ratio": 0.75, "host": "i.redd.it"}
+{"url": "https://i.redd.it/e00de9mpd9s71.jpg","author": "u/avonelle","count": 1,"tags": ["high leopard copper"], "ratio": 0.75, "host": "i.redd.it"}
+{"url": "https://i.redd.it/fv15y0npdgs71.jpg","author": "u/LilleviathanYT","count": 1,"tags":["wild"], "ratio": 1.3333333333333333, "host": "i.redd.it"}
+{"url": "https://i.redd.it/r5mn4h5bj6t71.jpg", "author": "u/SamBkamp", "count": 3, "tags": ["leucistic", "wild"], "ratio": 0.75, "host": "i.redd.it"}
+{"url": "https://i.redd.it/xgbb8h5bj6t71.jpg", "author": "u/SamBkamp", "count": 2, "tags": ["leucistic", "wild"], "ratio": 0.5794117647058824, "host": "i.redd.it"}
+{"url": "https://i.redd.it/hgmow4vet3t71.jpg", "author": "u/Jose_cf23", "count": 1, "tags": ["leucistic"], "ratio": 0.75, "host": "i.redd.it"}
+{"url": "https://i.redd.it/e762j3eme3t71.jpg", "author": "u/GingerChickens", "count": 1, "tags": ["golden albino"], "ratio": 0.75, "host": "i.redd.it"}
+{"url": "https://i.redd.it/6w0h9uzkk7t71.jpg", "author": "u/k1ngGhidorah", "count": 1, "tags": ["golden albino"], "ratio": 1.39736946990833, "host": "i.redd.it"}
+{"url": "https://i.redd.it/zofhv9ssc4t71.jpg", "author": "u/momma_2_5", "count": 1, "tags": ["golden albino"], "ratio": 0.75, "host": "i.redd.it"}
+{"url": "https://i.redd.it/5iiuec13d6t71.jpg", "author": "u/schnabeltierliebe", "count": 1, "tags": ["leucistic"], "ratio": 0.75, "host": "i.redd.it"}
+{"url": "https://i.redd.it/dtfnstaik4t71.jpg", "author": "u/luchobao", "count": 2, "tags": ["leucistic", "food"], "ratio": 1.7757296466973886, "host": "i.redd.it"}
+{"url": "https://i.redd.it/3jccx40kywr71.jpg", "author": "u/IllustriousAd6805", "count": 1, "tags": ["gfp", "albino"], "ratio": 0.75, "host": "i.redd.it"}
