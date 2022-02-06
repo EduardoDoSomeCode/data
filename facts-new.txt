@@ -32,3 +32,11 @@
 {"content": "The males often grow longer than the females, but not always.", "author": "AceKiron"}
 {"content": "Our breeding season typically runs from March to June.", "author": "AceKiron"}
 {"content": "Researchers are encouraging axolotls to breed by building 'shelters' in Xochimilco.", "author": "AceKiron"}
+{"content": "Axolotls may live more than 10 or 15 years" ,"author:Edd"}
+{"content": "They live in Freshwater lakes, usually murky" ,"author:Edd"}
+{"content": "They are aquatic, and although they posses rudimentary lungs, they breathe primarily through their gills and, to a lesser extent, their skin" ,"author:Edd"}
+{"content": "The axolotl genome is the second longest in the animal kingdom, with 32 billion base pairs. That’s 10 times as long as the human genome." ,"author:Edd"}
+{"content": "Wild axolotls are rarely white." ,"author:Edd"}
+
+
+
